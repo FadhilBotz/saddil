@@ -2721,7 +2721,7 @@ let capt = `⭔ Title: ${judul}
                 ]
                 },
                 ]
-                hisoka.sendListMsg(m.chat, `pilih aja *Rull* Setmenu nya!`, hisoka.user.name, `*Hello Arull* !`, `Pilih Rull`, sections, m)
+                hisoka.sendListMsg(m.chat, `pilih aja *Dill* Setmenu nya!`, hisoka.user.name, `*Hello Dill* !`, `Pilih Dill`, sections, m)
                 }
             }
             break
@@ -2730,13 +2730,13 @@ let capt = `⭔ Title: ${judul}
 Bot Ini Adalah Beta Multi-Device WhatsApp.
 
 ❏ *Info Creator*
-> Name : *ArullOfc*
-> Nomor : *https://wa.me/6285822347348*
+> Name : *DILL SAD BOY*
+> Nomor : *https://wa.me/6288708231116*
 > Umur : *18*
 > Region : *Indonesia 🇲🇨*
-> Hobyy : *Gtw*
-> Made in : *Kalimantan Selatan*
-> Nama Asli : *Sahrull... Private*
+> Hobyy : *Game*
+> Made in : *Jakarta*
+> Nama Asli : *Fadhil... Private*
 └───────⭓
 ~Silahkan Lihat Menu Dibawah^^~
 ┌──⭓ *Group Menu*
@@ -3043,12 +3043,12 @@ _Donasi Ngab Jangan Ngarep Free Mulu_`
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Grub Bot',
-                                    url: 'https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1'
+                                    url: 'https://chat.whatsapp.com/Kfog6CpfjabGGeMqETEPLE'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Owner',
-                                    phoneNumber: '+6285822347348'
+                                    phoneNumber: '+6288708231116'
                                 }
                             }, {
                                 quickReplyButton: {
